@@ -239,7 +239,8 @@ function create_config( )
     "all",
     "leave_ban",
     "leave",
-    "arabic_lock"
+    "arabic_lock",
+    "stats"
     },
     sudo_users = {74770898,138342554},--Sudo users
     disabled_channels = {},
