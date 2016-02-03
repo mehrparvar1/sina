@@ -140,12 +140,12 @@ return {
     "^[!/]([Ss]tats)$",
     "^[!/]([Ss]tatslist)$",
     "^[!/]([Ss]tats) (group) (%d+)",
-    "^[!/]([Ss]tats) ([Nn]etrobest)",-- Put everything you like :)
+    "^[!/]([Ss]tats) (netrobest)",-- Put everything you like :)
 		"^[!/]([Nn]etrobest)",-- Put everything you like :)
     "^([Ss]tats)$",
     "^([Ss]tatslist)$",
     "^([Ss]tats) (group) (%d+)",
-    "^([Ss]tats) ([Nn]etrobest)",-- Put everything you like :)
+    "^([Ss]tats) (netrobest)",-- Put everything you like :)
 		"^([Nn]etrobest)"-- Put everything you like :)	
     }, 
   run = run
