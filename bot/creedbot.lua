@@ -246,7 +246,7 @@ function create_config( )
     disabled_channels = {},
     realm = {},--Realms Id
     moderation = {data = 'data/moderation.json'},
-    about_text = [[Noosspeed bot 2.3
+    about_text = [[Netrobest bot 2.3
     
      Hello my Good friends 
      Hi this robot created by amir kineh & ali kineh & mohamdreza kineh
